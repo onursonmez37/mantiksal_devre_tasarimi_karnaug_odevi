@@ -1,0 +1,13 @@
+Hocam merhabalar, projem değişkenleri otomatik şekilde atanmış varsayılır şekilde kabul eder ;
+0 1 0 1
+0 0 1 1
+Buradaki gibi veya 
+0 0 0 0
+1 1 1 1
+0 1 0 1
+1 0 1 0
+şeklindeki dosyaları okuma tarzına göre tasarlanmıştır. Ödevde istenilen şekilde değişkenler: x, y, z şeklinde yapmaya çalıştığınızda hata alacaksınızdır fakat belirttiğim formatta herhangi
+bir sıkıntı çıkarmadan doğru şekilde çıktı vermektedir.
+ekrana verilen çıktının yanlarına minterm0, minterm1 gibi yazıları ekstradan yazdım ki okuması kolaylık olsun ve de Githuba yükleyeceğim için değiştirmek istemedim kodumu.
+Ayrıca F ve F' fonksiyonlarının minterm ve maksterm eleman sayılarınıda eklemiş bulunmaktayım.
+iyi çalışmakar, Kolay gelsin...
