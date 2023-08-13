@@ -2,7 +2,7 @@
 Bu ödevde karnaug.txt metin belgesinde bulunan matrisin incelenip,</br>
 F fonksiyonunun;
 *  TOPLAMLARIN ÇARPIMI(∑) </br>
-** ÇARPIMLARIN TOPLAMI (∏)</br>
+* ÇARPIMLARIN TOPLAMI (∏)</br>
 F' fonksiyonunun;</br>
 *  TOPLAMLARIN ÇARPIMI(∑)</br>
 ** ÇARPIMLARIN TOPLAMI (∏) </br>
