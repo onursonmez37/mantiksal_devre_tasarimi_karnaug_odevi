@@ -1,6 +1,6 @@
 # mantiksal_devre_tasarimi_karnaug_odevi
 Bu ödevde karnaug.txt metin belgesinde bulunan matrisin incelenip,</br>
-* F fonksiyonunun;
+* F fonksiyonunun;</br>
   -> TOPLAMLARIN ÇARPIMI(∑) </br>
   -> ÇARPIMLARIN TOPLAMI (∏)</br>
 * F' fonksiyonunun;</br>
