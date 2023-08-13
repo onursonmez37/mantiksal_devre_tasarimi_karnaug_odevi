@@ -1,0 +1,1 @@
+# mantiksal_devre_tasarimi_karnaug_odevi
